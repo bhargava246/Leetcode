@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/bhargava246/Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/bhargava246/Leetcode/tree/master/0268-missing-number) |
+| [2050-count-good-numbers](https://github.com/bhargava246/Leetcode/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +41,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/bhargava246/Leetcode/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/bhargava246/Leetcode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
