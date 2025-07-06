@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/bhargava246/Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/bhargava246/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/bhargava246/Leetcode/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/bhargava246/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
