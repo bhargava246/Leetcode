@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/bhargava246/Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/bhargava246/Leetcode/tree/master/0268-missing-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhargava246/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2050-count-good-numbers](https://github.com/bhargava246/Leetcode/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
