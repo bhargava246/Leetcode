@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bhargava246/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/bhargava246/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/bhargava246/Leetcode/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/bhargava246/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhargava246/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/bhargava246/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bhargava246/Leetcode/tree/master/0283-move-zeroes) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhargava246/Leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/bhargava246/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/bhargava246/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bhargava246/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhargava246/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bhargava246/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bhargava246/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
