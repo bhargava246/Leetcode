@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhargava246/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bhargava246/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/bhargava246/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/bhargava246/Leetcode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhargava246/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/bhargava246/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Two Pointers
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhargava246/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bhargava246/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhargava246/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0525-contiguous-array](https://github.com/bhargava246/Leetcode/tree/master/0525-contiguous-array) |
 ## Math
 |  |
 | ------- |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargava246/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/bhargava246/Leetcode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
